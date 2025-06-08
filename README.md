@@ -104,3 +104,9 @@ void loop() {
 ```
 
 ## 📈 Example Output
+```
+Calibration complete.
+pH Value: 6.85 | Turbidity Level: 34.75 % | Water Level: 88.23 %
+
+```
+
