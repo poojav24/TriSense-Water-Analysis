@@ -127,8 +127,8 @@ pH Value: 6.85 | Turbidity Level: 34.75 % | Water Level: 88.23 %
 ```
 
 ## 📚 References
-Arduino.cc
+1. Arduino.cc
 
-DFRobot Water Sensors
+2. DFRobot Water Sensors
 
-HowToMechatronics
+3. HowToMechatronics
