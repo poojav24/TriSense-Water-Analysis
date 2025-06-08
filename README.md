@@ -120,3 +120,8 @@ pH Value: 6.85 | Turbidity Level: 34.75 % | Water Level: 88.23 %
 4. 📱 Create a mobile app or dashboard for live data view
 
 --------
+
+## 👨‍🔬 Made with 💡 by Students of Sahyadri Science College, Shivamogga
+```
+"Clean water shouldn't be a luxury—it should be a right."
+```
