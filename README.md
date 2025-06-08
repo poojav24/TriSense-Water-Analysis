@@ -125,3 +125,10 @@ pH Value: 6.85 | Turbidity Level: 34.75 % | Water Level: 88.23 %
 ```
 "Clean water shouldn't be a luxury—it should be a right."
 ```
+
+## 📚 References
+Arduino.cc
+
+DFRobot Water Sensors
+
+HowToMechatronics
