@@ -100,3 +100,7 @@ void loop() {
 
   delay(1000);
 }
+
+```
+
+## 📈 Example Output
