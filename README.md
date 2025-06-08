@@ -109,4 +109,14 @@ Calibration complete.
 pH Value: 6.85 | Turbidity Level: 34.75 % | Water Level: 88.23 %
 
 ```
+--------
+## 🚀 Future Enhancements
+1. 📲 Add Wi-Fi module (ESP8266/NodeMCU) for Blynk or ThingSpeak integration
 
+2. 💾 Add SD card support for local data logging
+
+3. 🔋 Add solar + battery support for remote monitoring
+
+4. 📱 Create a mobile app or dashboard for live data view
+
+--------
